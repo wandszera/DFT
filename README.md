@@ -3,6 +3,8 @@
 ## Introduction
 
 ## Running AIMD Simulations
+### Types of AIMD
+#### Examples
 1. Initial Setup
 2. Input Files Description
 3. Running the Simulation
